@@ -1,2 +1,3 @@
 # arch-install-btrfs
-Arch Linux Btrfs installation script
+
+Use this sample script to create your own unattended Btrfs installation script for Arch Linux.
